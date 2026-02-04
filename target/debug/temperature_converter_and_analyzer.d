@@ -1,0 +1,1 @@
+/home/kostya/temperature_converter_and_analyzer/target/debug/temperature_converter_and_analyzer: /home/kostya/temperature_converter_and_analyzer/src/main.rs
